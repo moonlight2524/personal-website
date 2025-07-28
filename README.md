@@ -157,7 +157,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📞 Contact
 
 - **Email**: jeevithadivakar2020@gmail.com
-- **Phone**: +91 8197197287
 - **Location**: Bangalore, Karnataka, India
 
 ---
